@@ -1,6 +1,6 @@
 # 📊 Análise de Vendas de Lojas - Challenge Alura Data Science
 
-Este projeto faz parte de um desafio proposto pela Alura, com o objetivo de analisar o desempenho de quatro lojas fictícias, utilizando técnicas de análise de dados com Python e bibliotecas como `pandas`, `matplotlib` e `seaborn`.
+Este projeto faz parte de um desafio proposto pela Alura, com o objetivo de analisar o desempenho de quatro lojas fictícias utilizando técnicas de análise de dados com Python 
 
 ## 🧠 Objetivo
 
@@ -20,7 +20,7 @@ Com base nessas análises, foi possível recomendar qual loja possui o menor des
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter Notebook (opcional para execução interativa)
+- Jupyter Notebook 
 
 ## 📂 Estrutura dos Dados
 
