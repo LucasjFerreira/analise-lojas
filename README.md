@@ -1,4 +1,4 @@
-# 📊 Análise de Vendas de Lojas - Challenge Alura Data Science
+# 📊 Análise de Vendas de Lojas
 
 Este projeto faz parte de um desafio proposto pela Alura, com o objetivo de analisar o desempenho de quatro lojas fictícias utilizando técnicas de análise de dados com Python 
 
